@@ -9,7 +9,7 @@ Technical average 😅， But the attitude is definitely full🤣.
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" style="max-width: 100%;">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vite/vite.png" alt="vue" style="max-width: 100%;">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="vue" style="max-width: 100%;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="vue" style="max-width: 100%;">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/svn/svn.png" alt="vue" style="max-width: 100%;">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAQKing&layout=compact)](https://github.com/LAQKing)
 <!--
 **LAQKing/LAQKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
