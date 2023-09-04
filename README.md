@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm LAQKing !</h1>
-<h3 align="center">Technical average 😅， But the attitude is definitely full🤣.</br> 技术一般般😅，但态度绝对拉满🤣。</h3>
+<h3 align="center">Programs are written for humans and occasionally executed by machines.🤣.</br>程序是为人写的，然后偶尔为机器执行。🤣。</h3>
 
 <h4 align="center">Use Languages</h4>
 <p align="center">
