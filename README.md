@@ -3,7 +3,7 @@ Technical average 😅， But the attitude is definitely full🤣.
   技术一般般😅，但态度绝对拉满🤣。
 
 #### Languages
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="24px" height="24px" />
 <!--
 **LAQKing/LAQKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
