@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm LAQKing !</h1>
-<h3 align="center">Technical average 😅， But the attitude is definitely full🤣. 技术一般般😅，但态度绝对拉满🤣。</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h1 align="center">Hi there 👋, I'm LAQKing !</h1>
+<h3 align="center">Technical average 😅， But the attitude is definitely full🤣.</br> 技术一般般😅，但态度绝对拉满🤣。</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
