@@ -1,8 +1,8 @@
-### Hi there,I'm LAQKing ! 👋
+### Hi there 👋,I'm LAQKing !
 Technical average 😅， But the attitude is definitely full🤣.  
   技术一般般😅，但态度绝对拉满🤣。
 
-#### Languages
+#### Use Languages
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"   height="20" style="max-width: 100%;" />  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"  height="20" style="max-width: 100%;">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" style="max-width: 100%;">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" style="max-width: 100%;">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" style="max-width: 100%;">  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png" alt="sass" style="max-width: 100%;">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" style="max-width: 100%;">
 
 #### Use Tools  
