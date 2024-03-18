@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm LAQKing !</h1>
-<h3 align="center">Programs are written for humans and occasionally executed by machines.🤣.</br>程序是为人写的，然后偶尔为机器执行。🤣。</h3>
+<h1 >Hi there 👋, I'm LAQKing !</h1>
+<h3>Programs are written for humans and occasionally executed by machines.🤣.</br>程序是为人写的，然后偶尔为机器执行。🤣。</h3>
 
-<h4 align="center">Use Languages</h4>
-<p align="center">
+## 🍗 &nbsp;Use Languages
+<p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"   height="20" style="max-width: 100%;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"  height="20" style="max-width: 100%;">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" style="max-width: 100%;">
@@ -12,8 +12,8 @@
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" style="max-width: 100%;">
 </p>
 
-<h4 align="center">Use Tools </h4>
-<p align="center">
+## 🛠️ &nbsp;Use Tools
+<p>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="20"  style="max-width: 100%;" alt="nodejs">
 <img height="20" src="https://avatars.githubusercontent.com/u/65625612?s=48&v=4" alt="vite" data-canonical-src="https://vitejs.dev/logo.svg" style="max-width: 100%;">
@@ -37,3 +37,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👨🏻‍💻 &nbsp;My Stats
+
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LAQKing&show_icons=true&layout=compact&hide=stars&count_private=true" alt="LAQKing's GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAQKing&layout=compact&count_private=true&hide=html" />
+</div>
